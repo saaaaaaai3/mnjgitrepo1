@@ -1,1 +1,2 @@
 Sample text test file
+Made changes in Child Branch
